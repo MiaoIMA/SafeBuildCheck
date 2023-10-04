@@ -6,6 +6,10 @@
 
 
 ---
+Über den folgenden Link können Sie Ihre Bilder oder Videos direkt hochladen und testen, sogar Live-Videos von Ihrer Kamera können getestet werden.
+
+Through the link below, you can directly upload and test your images or videos, even test video streams from your camera.
+
 ## Link zur Sicherheitskleidungserkennung auf der Baustelle
 
 https://miaoima.github.io/SafeBuildCheck/
