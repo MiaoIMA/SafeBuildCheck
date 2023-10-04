@@ -52,7 +52,26 @@ Dieses Projekt verwendet [Technologie oder Modellname] als Kerntechnologie für 
 
 ---
 
+## Dataset
 
+Das untenstehende Bild gibt einen Überblick über den Trainingsdatensatz. Insgesamt sind die Quantität und Qualität der Daten recht hoch. 
+<p align="center">
+  <img src="./labels.jpg" />
+</p>
+
+
+## Result
+
+Bei Betrachtung der Vorhersageergebnisse stellen wir fest, dass das Modell im Großen und Ganzen unseren Erwartungen entspricht. Allerdings glauben wir, dass bei mehr Trainingsepochen der Verlust (Loss) noch weiter reduziert werden könnte, da er derzeit noch einen abnehmenden Trend aufweist.
+<p align="center">
+  <img src="./results.png" />
+</p>
+<p align="center">
+  <img src="./val_batch0_pred.jpg" />
+</p>
+<p align="center">
+  <img src="./confusion_matrix_normalized.png" />
+</p>
 ##Einrichtung
 
 ```shell
