@@ -75,21 +75,6 @@ Bei Betrachtung der Vorhersageergebnisse stellen wir fest, dass das Modell im Gr
 
 
 
-##Einrichtung
-
-```shell
-git clone https://github.com/Hyuto/yolov8-tfjs.git
-cd yolov8x
-yarn install #Install dependencies
-```
-
-##Skripte
-
-```shell
-yarn start # Start dev server
-yarn build # Build for productions
-```
-
 ## Reference
 
 - https://github.com/ultralytics/ultralytics
