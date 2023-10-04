@@ -55,9 +55,7 @@ const App = () => {
         <p>
           Sicherheitskleidungserkennung auf der Baustelle bei Browser 
         </p>
-        <p>
-          Serving : <code className="code">{modelName}</code>
-        </p>
+
       </div>
 
       <div className="content">
