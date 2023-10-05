@@ -1,4 +1,4 @@
-# 🚧 Sicherheitskleidungserkennung auf der Baustelle
+# 🚧 Einsatz von Deep Learning zur Gewährleistung der Arbeitssicherheit auf Baustellen
 
 <p align="center">
   <img src="./sample.png" />
