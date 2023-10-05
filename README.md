@@ -1,4 +1,4 @@
-# 🚧 Einsatz von Deep Learning zur Gewährleistung der Arbeitssicherheit auf Baustellen
+# 🚧 KI-gestützte Sicherheitsüberwachung auf Baustellen
 
 <p align="center">
   <img src="./sample.png" />
